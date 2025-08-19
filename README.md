@@ -1,20 +1,24 @@
-# 🎮 Stone-Paper-Scissor Game
+**Project 1: Rock, Paper, Scissors Game in C++ 🎮** 
 
-## 📖 About the Project
-A simple command-line game where the player competes against the computer in the classic "Stone, Paper, Scissors".  
-The computer generates its choice randomly, and the game compares it with the player's choice to determine the winner.  
-This project is part of the  [AbouHadhood Platform](https://programmingadvices.com/) training track with Dr. Mohamed Abou Hadhoud and is designed to practice:
-- Conditional statements
-- Loops
-- Random number generation
-- Functions
+As part of the Abu Hadhoud program ( Programming Advices ), I developed a fully functional Rock, Paper, Scissors game in C++. Here’s what makes it special: 
 
----
+✅ *Features:* 
+- The user selects the number of rounds. 
+- Each round is a battle between the player and the computer. 
+- Real-time result display after each round: 
+ - If the computer wins a round → Screen turns Red + Bell Sound 🔴🔔 
+ - If the player wins a round → Screen turns Green 🟢✨ 
+ - If it’s a tie → Screen turns Yellow 🟡 
+- After all rounds, the game displays the final result and asks if the player wants to play again. 
 
-## 🛠 Built With
-- **C++**
-- `<iostream>`
-- `<cstdlib>` (for random number generation)
-- `<ctime>` (for seeding the random function)
+✅ *Technical Breakdown:* 
+📌 Structures: 2 
+📌 Enums: 2 
+📌 Functions: 8 
+📌 Procedures: 6 
+📌 Main Function: 1 
 
----
+This project reinforced key programming concepts like *modularity, user interaction, and problem-solving*. 
+
+NOTE :-
+I made the project first which is (My Solution), then I Saw the (Instructor's Solution) to learn new ways of thinking, analyzing and programming. After that I practiced the (Instructor's Solution) very well.
