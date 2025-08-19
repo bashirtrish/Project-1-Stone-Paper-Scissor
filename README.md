@@ -24,5 +24,16 @@ NOTE :-
 I made the project first which is (My Solution), then I Saw the (Instructor's Solution) to learn new ways of thinking, analyzing and programming. After that I practiced the (Instructor's Solution) very well.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image alt](https://github.com/bashirtrish/Project-1-Stone-Paper-Scissor/blob/main/Screenshot%202025-08-19%20211248.png?raw=true)
+![image alt](https://github.com/bashirtrish/Project-1-Stone-Paper-Scissor/blob/main/Screenshot%202025-08-19%20211302.png?raw=true)
+
+![image alt](https://github.com/bashirtrish/Project-1-Stone-Paper-Scissor/blob/main/Screenshot%202025-08-19%20211313.png?raw=true)
+
+![image alt](https://github.com/bashirtrish/Project-1-Stone-Paper-Scissor/blob/main/Screenshot%202025-08-19%20211325.png?raw=true)
+
+![image alt](https://github.com/bashirtrish/Project-1-Stone-Paper-Scissor/blob/main/Screenshot%202025-08-19%20211335.png?raw=true)
+
+![image alt](https://github.com/bashirtrish/Project-1-Stone-Paper-Scissor/blob/main/Screenshot%202025-08-19%20211345.png?raw=true)
+
+
 
 
