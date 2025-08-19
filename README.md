@@ -23,8 +23,7 @@ This project reinforced key programming concepts like *modularity, user interact
 NOTE :-
 I made the project first which is (My Solution), then I Saw the (Instructor's Solution) to learn new ways of thinking, analyzing and programming. After that I practiced the (Instructor's Solution) very well.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image alt](<img width="1110" height="630" alt="image" src="https://github.com/user-attachments/assets/27fffb59-07df-47bc-a9af-aa1256d3075c" />
-)
+![image alt](<img width="1110" height="630" alt="image" src="https://github.com/user-attachments/assets/27fffb59-07df-47bc-a9af-aa1256d3075c" />)
 ![image alt](<img width="1109" height="623" alt="image" src="https://github.com/user-attachments/assets/3ee2df73-f398-47ba-a6bd-c6bdd26d1a33" />
 )
 ![image alt](<img width="1109" height="614" alt="image" src="https://github.com/user-attachments/assets/c820b1b9-7622-4c40-832f-1f8234f32eaf" />
